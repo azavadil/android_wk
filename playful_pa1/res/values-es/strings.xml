@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption_port">Alan Mathison Turing, (23 junio 1912 a 7 junio 1954), fue un matemático británico, lógico, criptoanalista, y el ordenador
+         científico. Él fue muy influyente en el desarrollo de la informática, dando una formalización de los conceptos de \ "algoritmo \" y
+         \ "computación \" con la máquina de Turing, que se puede considerar un modelo de un ordenador de propósito general. Turing es ampliamente considerado como
+         el padre de la informática y la inteligencia artificial.</string>
+
+    
+    <string name="caption_land">Augusta Ada King, Condesa de Lovelace (10 diciembre 1815 hasta 27 noviembre 1852),
+         nacido Augusta Ada Byron y ahora se conoce comúnmente como Ada Lovelace, fue un matemático Inglés y escritor
+         conocido principalmente por su trabajo en principios de computadora de propósito general mecánica Charles 
+		 Babbage \'s, la analítica Engine. Sus notas en el motor incluyen lo que se reconoce como el primer 
+		 algoritmo destinado a ser llevado a cabo por una máquina. Debido a esto, ella se describe a menudo 
+		 como la primera programadora del mundo\'s equipo.
+    </string>
+</resources>

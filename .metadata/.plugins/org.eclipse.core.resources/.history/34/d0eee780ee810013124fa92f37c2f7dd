@@ -1,0 +1,33 @@
+package azapp101.javabook;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+import android.view.View;
+
+public class MainActivity extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		// after setContentView we've told android 'please create all of those components you find inside 
+		// activity main layout file
+		setContentView(R.layout.activity_main);
+		
+		// find the webview we created
+		// the id is automatically added to the R file 
+		View webViewPointer = findViewById(R.id.webView1); 
+		
+		
+		// Open the asset/index.html
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}

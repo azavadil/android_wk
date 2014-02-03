@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">playful_pa1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alanturing">alanTuring</string>
+	
+    
+    <string name="caption_port">Alan Mathison Turing, (23 June 1912 – 7 June 1954), was a British mathematician, logician, cryptanalyst, and computer 
+        scientist. He was highly influential in the development of computer science, giving a formalisation of the concepts of \"algorithm\" and 
+        \"computation\" with the Turing machine, which can be considered a model of a general purpose computer. Turing is widely considered to be 
+        the father of computer science and artificial intelligence.\n
+
+		</string>
+    
+
+    <string name="caption_land">Augusta Ada King, Countess of Lovelace (10 December 1815 – 27 November 1852), 
+        born Augusta Ada Byron and now commonly known as Ada Lovelace, was an English mathematician and writer 
+        chiefly known for her work on Charles Babbage\'s early mechanical general-purpose computer, the Analytical 
+        Engine. Her notes on the engine include what is recognised as the first algorithm intended to be carried 
+        out by a machine. Because of this, she is often described as the world\'s first computer programmer.
+
+		</string>
+    
+</resources>

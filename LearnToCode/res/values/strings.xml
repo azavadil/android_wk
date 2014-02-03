@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnToCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="caption">This is my first app. Everyone should learn to code
+        Programming is a craft. At its simplest, it comes down to getting a
+	computer to do what you want it to do (or what your user wants it to do). As
+	a programmer, you are part listener, part advisor, part interpreter, and
+	part dictator. You try to capture elusive requirements and find a way of
+	expressing them so that a mere machine can do them justice. You try to
+	document your work so that others can understand it, and you try to
+	engineer your work so that others can build on it. What\'s more, you try to do
+	all this against the relentless ticking of the project clock. You work small
+	miracles every day.
+
+   </string>
+    <string name="swerdlinwedding" translatable="false">SwerdlinWedding</string>
+
+</resources>
